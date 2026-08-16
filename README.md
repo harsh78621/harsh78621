@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🏆 Certifications
+
+* **Learn Git** – [Boot.dev](https://www.boot.dev)
+  <br>[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e4da5bd9-c479-4c03-a1d8-fd912ae3540d.jpeg?v=1786908405)](https://www.boot.dev/certificates/e4da5bd9-c479-4c03-a1d8-fd912ae3540d)
+
 
 <!--
 **harsh78621/harsh78621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
